@@ -41,6 +41,6 @@ Package to wrap seaborn plotting functions to support simple syntax and flexibil
 
 ## Other Helpful Resources:
 [TowardsDataScience Post and Video for Package Creation](https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e)
-[Tutorial for Creating a Package](https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html)
+<br> [Tutorial for Creating a Package](https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html)
 
 
