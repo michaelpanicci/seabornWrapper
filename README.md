@@ -35,10 +35,12 @@ PackageName (outer directory)
 ### pip install your package and test it out, if it is good to poductionalize, upload your project to: https://pypi.org/
 #### python -m twine upload --repository pypi dist/*
 
+##### use --skip-existing after pypi to only install new version files from the dist folder. if you make any changes, you need to change the version number befroe uploading.
+
 ## From anywhere in the world, simply type pip install yourPackage and get access to your useful code 
 
 ## Other Helpful Resources:
-https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e
-https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html
+[TowardsDataScience Post and Video] https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e
+[Written Tutorial for Creating a Package] https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html
 
 
