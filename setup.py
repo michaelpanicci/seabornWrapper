@@ -20,8 +20,7 @@ setup(
         keywords=["seaborn","plotting","wrapper"],
         classifiers= [
             "Development Status :: 3 - Alpha",
-            "Intended Audience :: Data Professionals",
             "Programming Language :: Python :: 3",
-            "Operating System :: OS Independent
+            "Operating System :: OS Independent"
         ]
 )

@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 
-def flexible_barplot(data=df, x=None, y=None, hue=None,
+def custom_plot(data, x=None, y=None, hue=None,
                      plt_dims=(15,5),
                      ylim=None,
                      ylabel=None,
